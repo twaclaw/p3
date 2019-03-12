@@ -3,7 +3,7 @@
 
 ## Python ecosystem for data analysis and machine learning
 
-Presentation hold at Kigali on 06.03.2019
+Presentation held at Kigali on 06.03.2019
 
 ## Topics
 
